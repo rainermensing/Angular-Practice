@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { NewsApiService } from '../api.service';
-import { environment } from 'src/environments/environment';
+import { environment } from '../../environments/environment';
 
 
 @Component({

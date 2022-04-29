@@ -11,8 +11,9 @@ This is a collection of small practice excercises to familiarize myself with Jav
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
 ## Requirements
-
-- npm install g @angular/material
+Angular >13
+- npm install g @angular/material @angular/ngrx @ionic/cli
+- ng add @ionic/angular @ionic/store-angular
 
 ## Development server
 

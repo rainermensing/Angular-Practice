@@ -1,6 +1,7 @@
 # Welcome to my Angular practive ground
 This is a collection of small practice excercises to familiarize myself with Angular. It currently contains:
-1. NewsApi page listing the most recent articles posted on NewsAPI : [Reference](https://blog.quadiontech.com/angular-tutorial-by-example-rest-api-httpclient-get-components-services-ngfor-63e457e6de1c) **First add your NewsAPI key to environments/environment.ts**
+1. NewsApi page listing the most recent articles posted on NewsAPI : [Reference](https://blog.quadiontech.com/angular-tutorial-by-example-rest-api-httpclient-get-components-services-ngfor-63e457e6de1c) 
+(_**First add your NewsAPI key to scr/environments/environment.ts**_)
 
 2. Promo Code page listing fake promotion codes from Random Data API : [Reference](https://fullstacksoup.blog/2020/04/08/angular-material-table-with-api-call/)
 
@@ -8,6 +9,10 @@ This is a collection of small practice excercises to familiarize myself with Ang
 # HelloWorld
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+
+## Requirements
+
+- npm install g @angular/material
 
 ## Development server
 

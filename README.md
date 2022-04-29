@@ -1,9 +1,9 @@
-# Welcome to my Angular practive ground
-This is a collection of small practice excercises to familiarize myself with Angular. It currently contains:
-1. NewsApi page listing the most recent articles posted on NewsAPI : [Reference](https://blog.quadiontech.com/angular-tutorial-by-example-rest-api-httpclient-get-components-services-ngfor-63e457e6de1c) 
+# Welcome to my Javascript/Typescript/Angular practice-ground
+This is a collection of small practice excercises to familiarize myself with Javascript, Typescript and Angular. It currently contains:
+1. NewsApi page listing the most recent articles posted on NewsAPI : [Based on work of Anahi Archet](https://blog.quadiontech.com/angular-tutorial-by-example-rest-api-httpclient-get-components-services-ngfor-63e457e6de1c) 
 (_**First add your NewsAPI key to scr/environments/environment.ts**_)
-
-2. Promo Code page listing fake promotion codes from Random Data API : [Reference](https://fullstacksoup.blog/2020/04/08/angular-material-table-with-api-call/)
+2. Promo Code page listing fake promotion codes from Random Data API : [Based on work of Danny B.](https://fullstacksoup.blog/2020/04/08/angular-material-table-with-api-call/)
+3. Todo List as a simple example of state management using ngrx and Ionic: [Based on work of Josh Morony](https://github.com/joshuamorony/ngrx-ionic-example/blob/main/src/app/app-routing.module.ts) 
 
 
 # HelloWorld

@@ -1,4 +1,4 @@
-# Welcome to my Angular practive ground
+# Welcome to my Angular practice ground
 This is a collection of small practice excercises to familiarize myself with Angular. It currently contains:
 1. NewsApi page listing the most recent articles posted on NewsAPI : [Reference](https://blog.quadiontech.com/angular-tutorial-by-example-rest-api-httpclient-get-components-services-ngfor-63e457e6de1c) **First add your NewsAPI key to environments/environment.ts**
 
